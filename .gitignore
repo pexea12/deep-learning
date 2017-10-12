@@ -1,2 +1,9 @@
 .ipynb_checkpoints
 *.hdf5
+aind2-cnn/mnist-mlp/.ipynb_checkpoints/
+aind2-cnn/conv-visualization/.ipynb_checkpoints/
+aind2-cnn/cifar10-classification/.ipynb_checkpoints/
+aind2-cnn/cifar10-augmentation/.ipynb_checkpoints/
+aind2-cnn/transfer-learning/dogImages
+aind2-cnn/transfer-learning/bottleneck_features/DogVGG16Data.npz
+aind2-cnn/transfer-learning/.ipynb_checkpoints/
