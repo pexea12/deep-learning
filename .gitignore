@@ -1,5 +1,8 @@
 .ipynb_checkpoints
 *.hdf5
+*.local
+*.pyc
+*.npz
 aind2-cnn/mnist-mlp/.ipynb_checkpoints/
 aind2-cnn/conv-visualization/.ipynb_checkpoints/
 aind2-cnn/cifar10-classification/.ipynb_checkpoints/
